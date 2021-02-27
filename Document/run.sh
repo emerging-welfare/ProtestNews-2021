@@ -13,7 +13,6 @@ if [ ! -d tmp/texts ]; then
 fi
 if [ ! -d ../output ]; then
     mkdir ../output
-    mkdir ../output/Sentence
     mkdir ../output/Document
 fi
 
