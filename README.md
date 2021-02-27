@@ -1,5 +1,5 @@
 Sadly we cannot share the whole text of the articles we labelled/annotated due to the copyright infringment laws.\
-Therefore we prepared three scripts for Document, Sentence level data to automatically download from provided urls and "fill in the blanks".\
+Therefore we prepared three scripts for Document level data to automatically download from provided urls and "fill in the blanks".\
 There is no way to make this whole process lossless due to the those tricky, everchanging htmls.\
 Even though we try to compensate for every possible problem, there will be some changes from the original data we labelled. So we will evaluate how this small change effects a baseline model, and will share the results. \
 
