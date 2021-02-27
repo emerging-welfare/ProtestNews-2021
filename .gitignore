@@ -1,0 +1,20 @@
+*~
+collector/tmp
+*.json
+*.csv
+*.log
+collector/log.txt
+Sentence/log.txt
+Document/log.txt
+__pycache__/
+Document/python-goose/
+Document/python-boilerpipe/
+python-boilerpipe/
+python-goose/
+Requirements
+missing_news_urls*
+201903221045_dev.solution
+201903221045_test.solution
+201903221045_train.solution
+# Mac os DS_STORE files 
+.DS_STORE
