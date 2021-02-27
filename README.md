@@ -4,7 +4,7 @@ There is no way to make this whole process lossless due to the those tricky, eve
 Even though we try to compensate for every possible problem, there will be some changes from the original data we labelled. So we will evaluate how this small change effects a baseline model, and will share the results. \
 
 ### Steps
-To get your data ready, you need to go into each of the folders (Document, Sentence) and run `bash run.sh`
+To get your data ready, you need to go into each of the folders (Document) and run `bash run.sh`
 
 ### Requirements
 Firstly install additional requirements in requirements_additional. You can do so by running `apt-get install` line in Ubuntu. For python packages, you need to visit the github pages and follow install instructions. \
